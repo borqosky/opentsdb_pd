@@ -1,7 +1,7 @@
-# opentsdbpd
+# opentsdb_pd
 This module provides way to get data from OpenTSDB HTTP API and transform it to Pandas Timeseries in an efficient way.
 
-opentsdbpd
+opentsdb_pd
 ===============
 
 This module is able to get data from [OpenTSDB](http://opentsdb.net/) through HTTP interface and convert them into pandas [Timeseries](http://pandas.pydata.org/pandas-docs/stable/timeseries.html). 
